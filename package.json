@@ -1,0 +1,8 @@
+{
+    "name": "filobot",
+    "version": "0.1.0",
+    "description": "A bot to quote inspiring words.",
+    "keywords": ["bot", "quote"],
+    "main": "src/index.js",
+    "dependencies": {}
+}
