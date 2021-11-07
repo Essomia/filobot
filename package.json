@@ -1,8 +1,8 @@
 {
-    "name": "filobot",
+    "name": "filobot-develop",
     "version": "0.1.0",
-    "description": "A bot to quote inspiring words.",
-    "keywords": ["bot", "quote"],
+    "description": "",
+    "keywords": [],
     "main": "src/index.js",
     "dependencies": {
         "react": "17.0.2",
